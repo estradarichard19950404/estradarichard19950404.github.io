@@ -221,3 +221,7 @@ footer h3 {
 span.copyright {
     margin-top: 20px;
 }
+ul, ol {
+    margin-left: 30px;
+    margin-top: 12px;
+}
